@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wN8eP1zxalKcGkb9oVhlcq3Jz4eo7HkHSxEOiWGsPso=",
+  "Source": "ResourceManagement.Api",
+  "BasePath": "_content/ResourceManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

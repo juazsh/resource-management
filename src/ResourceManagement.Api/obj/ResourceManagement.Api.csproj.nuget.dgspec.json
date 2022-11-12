@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/junaidazharshaikh/RiderProjects/ResourceManagement/ResourceManagement/src/ResourceManagement.Api/ResourceManagement.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/junaidazharshaikh/RiderProjects/ResourceManagement/ResourceManagement/src/ResourceManagement.Api/ResourceManagement.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/junaidazharshaikh/RiderProjects/ResourceManagement/ResourceManagement/src/ResourceManagement.Api/ResourceManagement.Api.csproj",
+        "projectName": "ResourceManagement.Api",
+        "projectPath": "/Users/junaidazharshaikh/RiderProjects/ResourceManagement/ResourceManagement/src/ResourceManagement.Api/ResourceManagement.Api.csproj",
+        "packagesPath": "/Users/junaidazharshaikh/.nuget/packages/",
+        "outputPath": "/Users/junaidazharshaikh/RiderProjects/ResourceManagement/ResourceManagement/src/ResourceManagement.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/junaidazharshaikh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
